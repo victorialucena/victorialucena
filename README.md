@@ -1,5 +1,5 @@
 ## Oii, eu sou a Victoria Lucena!
-## Atualmente estou estudando sobre Front-End!
+## Atualmente estou estudando sobre Front-End!, e vou usar esse perfil pra postar projetinhos que estou fazendo nesse aprendizado!
 
 <div align="center">
   <a href="https://github.com/victorialucena">
