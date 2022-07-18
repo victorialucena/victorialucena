@@ -1,4 +1,3 @@
-## Oii, eu sou a Victoria Lucena!
 
 <div align="center">
   <a href="https://github.com/victorialucena">
